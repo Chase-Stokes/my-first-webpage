@@ -3,16 +3,8 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  font-style: italic;
-  text-align: center;
-}
-
-p {
-  font-family: sans-serif;
-}
-
-ul {
+li {
   font-size: 20px;
   line-height: 30px;
+  text-align: center;
 }
