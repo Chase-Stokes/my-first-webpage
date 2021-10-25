@@ -14,9 +14,9 @@ $(document).ready(function(){
     let first = yourFavorites[0];
     let third = yourFavorites[2];
 
-    $(".person").text(second);
-    $(".place").text(first);
-    $(".movie").text(third);
+    $(".one").text(second);
+    $(".two").text(first);
+    $(".three").text(third);
     $(".favList").text(yourFavorites);
   });
 });
