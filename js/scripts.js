@@ -1,7 +1,7 @@
 // Buiness logic
-// function yourFav(input) {
-//   return yourFavorites ;
-// };
+function yourFav(input) {
+  return yourFavorites ;
+};
 
 $(document).ready(function(){
   $("form#formOne").submit(function(event) {
